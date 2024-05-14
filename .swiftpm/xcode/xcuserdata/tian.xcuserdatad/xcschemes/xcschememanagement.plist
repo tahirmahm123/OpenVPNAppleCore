@@ -30,5 +30,28 @@
 			<integer>4</integer>
 		</dict>
 	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>TunnelKit</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>TunnelKitLZO</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>TunnelKitOpenVPN</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>TunnelKitOpenVPNAppExtension</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>
