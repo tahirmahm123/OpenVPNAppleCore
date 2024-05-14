@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>NSPrivacyAccessedAPITypes</key>
@@ -12,5 +13,5 @@
 			</array>
 		</dict>
 	</array>
-<key>NSPrivacyAccessedAPITypes</key><array><dict><key>NSPrivacyAccessedAPIType</key><string>NSPrivacyAccessedAPICategoryUserDefaults</string><key>NSPrivacyAccessedAPITypeReasons</key><array><string>請在此處插入 NSPrivacyAccessedAPICategoryUserDefaults 原因</string></array></dict></array></dict>
+</dict>
 </plist>
